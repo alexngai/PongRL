@@ -4282,7 +4282,7 @@ MonoBehaviour:
   playerTag: Player
   wallTag: Wall
   maxSpin: 5
-  spinForce: 0.01
+  spinForce: 0.02
 --- !u!61 &1482843103
 BoxCollider2D:
   m_ObjectHideFlags: 0
