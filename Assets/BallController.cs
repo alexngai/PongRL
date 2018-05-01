@@ -8,7 +8,7 @@ public class BallController : MonoBehaviour {
 	public string playerTag = "Player";
 	public string wallTag = "Wall";
 	public float maxSpin = 5f;
-	public float spinForce = 0.01f; // As a percentage of current velocity.
+	public float spinForce = 0.02f; // As a percentage of current velocity.
 
 	private Rigidbody2D rb2d; 
 	private SpriteRenderer srend;
